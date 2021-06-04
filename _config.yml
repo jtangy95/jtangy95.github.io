@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+
+title: [Taeyoung Chang's Homepage]
+description: [This website is made for Freshman Seminar assignment]
+
+show_downloads: ["true"]
