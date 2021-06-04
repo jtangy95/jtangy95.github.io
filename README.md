@@ -15,4 +15,5 @@ Hello. My name is Taeyoung Chang and I am a graduate school student in Seoul Nat
 <br>
 Photo
 <br>
-![2020 identification photo](https://user-images.githubusercontent.com/85330268/120785280-f6ed9200-c567-11eb-9766-5ddfc4ab35d3.jpg)
+![2020 identification photo](https://user-images.githubusercontent.com/85330268/120785491-22707c80-c568-11eb-949e-e932f3a4fab4.jpg)
+
