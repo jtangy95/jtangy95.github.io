@@ -16,7 +16,11 @@ Hello. My name is Taeyoung Chang and I am a graduate school student in Seoul Nat
 <br>
 <br>
 -Documentation of Mathematical Facts
+<br>
 [General Topology Facts.pdf](https://github.com/jtangy95/jtangy95.github.io/files/6763830/General.Topology.Facts.pdf)
+<br>
+[ProbTheo_Facts.pdf](https://github.com/jtangy95/jtangy95.github.io/files/6763865/ProbTheo_Facts.pdf)
+
 
 <br>
 Photo
