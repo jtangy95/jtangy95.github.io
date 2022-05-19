@@ -21,6 +21,14 @@ Hello. My name is Taeyoung Chang and I am a graduate school student in Seoul Nat
 <br>
 [Probability Theory 1 Facts.pdf](https://github.com/jtangy95/jtangy95.github.io/files/6763865/ProbTheo_Facts.pdf)
 
+-Lab Seminar I've presented
+<br>
+[Bayesian Mallows Rank Model.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730739/Seminar_MallowsRankModel.pdf)
+<br>
+[BestSubset ForwardSelection Lasso.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730746/seminar_bs_fs_lasso.pdf)
+<br>
+[SVM and dual problem.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730748/seminar_SVM_dual.pdf)
+
 
 <br>
 Photo
