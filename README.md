@@ -25,7 +25,7 @@ Hello. My name is Taeyoung Chang and I am a graduate school student in Seoul Nat
 <br>
 [Bayesian Mallows Rank Model.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730739/Seminar_MallowsRankModel.pdf)
 <br>
-[BestSubset ForwardSelection Lasso.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730746/seminar_bs_fs_lasso.pdf)
+[BestSubset ForwardSelection and Lasso.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730746/seminar_bs_fs_lasso.pdf)
 <br>
 [SVM and dual problem.pdf](https://github.com/jtangy95/jtangy95.github.io/files/8730748/seminar_SVM_dual.pdf)
 
