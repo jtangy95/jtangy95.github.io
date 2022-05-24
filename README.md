@@ -13,7 +13,7 @@ jtangy95@gmail.com or jtangy95@snu.ac.kr
 
 <br>
 <br>
-Hello. My name is Taeyoung Chang and I am a graduate school student in Seoul National University. I am majoring in Statistics. I received my B.A. degree in Applied Statistics in Yonsei University. My research interests are in Bayesian statistics and statistical machine learning.
+Hello. My name is Taeyoung Chang and I am a master's student at the Department of Statistics at College of Natural Sciences, Seoul National University. I received my B.A. degree in Applied Statistics in Yonsei University. My research interests are in Bayesian statistics and statistical machine learning.
 <br>
 <br>
 -Documentation of Mathematical Facts I've learned
